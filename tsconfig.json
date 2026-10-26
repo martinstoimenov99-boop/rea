@@ -20,6 +20,7 @@
     "verbatimModuleSyntax": true
   },
   "include": [
+    "index.ts",
     "src/**/*.ts",
     "tests/**/*.ts",
     "vitest.config.ts",

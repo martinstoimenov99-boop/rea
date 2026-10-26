@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/knip/schema.json",
   "entry": [
+    "index.ts",
     "src/main.ts",
     "src/cli.ts",
     "src/composition/javascriptAnalysisWorkerProcess.ts",
